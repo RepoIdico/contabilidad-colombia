@@ -1,0 +1,2746 @@
+{
+    "customForm": {
+        "id": 237
+    },
+    "subsidiary": {
+        "id": 3
+    },
+    "currency": {
+        "id": 5
+    },
+    "trandate": "2025-01-30 00:00:00",
+    "line": {
+        "items": [
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "360.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "334.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "365.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "361.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "355.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "353.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "353.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "347.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "343.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "362.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "356.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "344.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "349.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "349.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "338.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "352.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "342.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "350.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "339.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "366.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "351.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "335.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "340.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "112390.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "345.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "364.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "346.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "333.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "333.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "348.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "363.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "369.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "354.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "332.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "332.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "368.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "359.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "367.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5105390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "341.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "358.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205300010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2510100010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205330010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2515050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205360010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2520050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "5205390010"
+                },
+                "debit": "100",
+                "credit": "0",
+                "entity": {
+                    "id": "357.0"
+                }
+            },
+            {
+                "account": {
+                    "id": "2525050010"
+                },
+                "debit": "0",
+                "credit": "100",
+                "entity": {
+                    "id": "357.0"
+                }
+            }
+        ]
+    },
+    "accountingBookDetail": {
+        "items": [
+            {
+                "accountingBook": {
+                    "id": 2
+                },
+                "exchangeRate": 4395.6
+            }
+        ]
+    }
+}
