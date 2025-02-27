@@ -1,5 +1,6 @@
 import pandas as pd
 import sys
+import os
 class ProcessExcelFiles:
 
     def read_excel(self,file_path, sheet_name, header):
@@ -57,10 +58,24 @@ class ProcessExcelFiles:
             columns_to_export = ["NIT", "NOMBRE (EMPLEADO)", "ID_TERCERO", "CUENTA CONTABLE", "DEBITO", "CREDITO"]
             final_output = df[columns_to_export]
             final_output.to_csv(file_name, sep=";", index=False, encoding="ISO-8859-1")
-            print(f"✅ Archivo '{file_name}' generado correctamente.")
-            return f"Archivo {file_name} generado correctamente"
+            print(f"✅ Plantilla '{file_name}' generado correctamente.")
+            return True
         except Exception as e:
             print(f"⚠️ Error inesperado al generar el archivo '{file_name}': {e}")
             sys.exit(1)
         
-    
+    def get_siigo_file(self, search_term):
+        dir_path = "data/siigo"
+        try:
+            files = os.listdir(dir_path)
+            target_file = next((f for f in files if search_term.lower() in f.lower()), None)
+            full_path = dir_path + "/" + target_file
+            return full_path
+        except FileNotFoundError:
+            print(f"⚠️ Error: No se encontró el directorio '{dir_path}'. Verifica y vuelve a intentarlo.")
+            sys.exit(1)
+        except ValueError:
+            print(f"⚠️ Error: No se encontró el archivo '{search_term}' en el directorio '{dir_path}'. Verifica y vuelve a intentarlo.")
+        except Exception as e:
+            print(f"⚠️ Error inesperado al buscar el archivo en '{dir_path}': {e}")
+            sys.exit(1)

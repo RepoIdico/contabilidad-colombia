@@ -1,24 +1,8 @@
-from utils.ProcessDataTools import ProcessExcelFiles
-ProcessorTools = ProcessExcelFiles()
+import os
 
-def get_month_of_date():
-    meses = {
-        "1": "Enero",
-        "2": "Febrero",
-        "3": "Marzo",
-        "4": "Abril",
-        "5": "Mayo",
-        "6": "Junio",
-        "7": "Julio",
-        "8": "Agosto",
-        "9": "Septiembre",
-        "10": "Octubre",
-        "11": "Noviembre",
-        "12": "Diciembre"
-    }
-    parametros =  ProcessorTools.read_excel("data/parametros/Equivalencias.xlsx", "Parametros", 0)
-    fecha = parametros.loc[0, "FECHA"]
-    mes = fecha.month
-    return meses[str(mes)]
-
-print(get_month_of_date())
+dir_path = "data/siigo"
+files = os.listdir(dir_path)
+target_file = next((f for f in files if "nomina".lower() in f.lower()), None)
+print(files)
+print(target_file)
+print("No fue posible obtener el ID del Journal, verifica su creación en el siguiente link:\n https://11012044.app.netsuite.com/app/accounting/transactions/transactionlist.nl?Transaction_TYPE=Journal&whence=")
