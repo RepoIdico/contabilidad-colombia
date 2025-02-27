@@ -55,4 +55,5 @@ docker-compose.override.yml
 # Files
 data/siigo/*.xlsx
 data/siigo/*.csv
-data/resultados/*.csv
+data/historial/*.csv
+data/journals_templates/*.csv
